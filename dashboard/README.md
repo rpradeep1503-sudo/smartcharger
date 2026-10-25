@@ -9,3 +9,6 @@ Open `index.html` in Chrome or Edge. No install needed (needs internet once for 
 
 The model equations match src/battery_model.py and src/strategies.py. Keep them in sync if you change one.
 Parameters are toy values. The stress score is an estimate, not measured ageing.
+
+## Offline use (ESP32 Wi-Fi has no internet)
+Download https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js, save it as dashboard/three.min.js and change the script src in index.html to "three.min.js". Fonts will fall back to system fonts.

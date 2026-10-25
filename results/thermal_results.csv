@@ -1,0 +1,19 @@
+ambient_C,strategy,fan,time_min,peak_C,fan_Wh,stress
+35,Baseline 1C,off,42.0,36.5,0.0,1.15
+35,Baseline 1C,on,42.0,35.37,0.7,1.08
+35,Baseline 1C,smart,42.0,35.63,0.32,1.09
+35,Naive 2.5C,off,18.05,44.32,0.0,3.77
+35,Naive 2.5C,on,18.05,37.34,0.3,2.86
+35,Naive 2.5C,smart,18.05,37.91,0.21,2.95
+35,Adaptive,off,29.65,39.92,0.0,1.98
+35,Adaptive,on,27.08,37.34,0.45,2.01
+35,Adaptive,smart,27.08,37.91,0.25,2.07
+40,Baseline 1C,off,42.0,41.5,0.0,1.5
+40,Baseline 1C,on,42.0,40.37,0.7,1.43
+40,Baseline 1C,smart,42.0,40.37,0.7,1.43
+40,Naive 2.5C,off,18.05,49.32,0.0,4.6
+40,Naive 2.5C,on,18.05,42.34,0.3,3.69
+40,Naive 2.5C,smart,18.05,42.34,0.3,3.69
+40,Adaptive,off,49.13,41.87,0.0,1.36
+40,Adaptive,on,41.4,40.83,0.69,1.6
+40,Adaptive,smart,41.4,40.83,0.69,1.6
